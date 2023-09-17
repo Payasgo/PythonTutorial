@@ -16,5 +16,5 @@ def track_phone_number(phone_number):
         print("Invalid phone number")
         
 # Example usage
-phone_number = "+917386979222"  # Replace with the phone number you want to track
+phone_number = ""  # Replace with the phone number you want to track
 track_phone_number(phone_number)

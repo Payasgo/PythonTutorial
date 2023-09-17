@@ -29,5 +29,5 @@ def track_phone_number(phone_number):
         print("Location information not found")
 
 # Example usage
-phone_number = "+919948370125"  # Replace with the phone number you want to track
+phone_number = ""  # Replace with the phone number you want to track
 track_phone_number(phone_number)
